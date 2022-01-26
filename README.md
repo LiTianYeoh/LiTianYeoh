@@ -1,16 +1,27 @@
-### Hi there 👋
+# About me
+## Personal Detail and Contact
+Name: Yeoh Li Tian \
+Gender: Male \
+Nationality: Malaysia \
+Year of Birth: 1999 \
+Age (as of 2022): 23 \
 
-<!--
-**LiTianYeoh/LiTianYeoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact:
+I prefer email over phone, so here you go - yeohlitian@gmail.com .
 
-Here are some ideas to get you started:
+## Education
+### BSc Degree with First Class Honour in Mathematics. Imperical College London, Year 2021
+<ul>
+  <li> Solid understanding in basic concepts including:
+    <ol> 
+      <li> real and complex analysis,  </li>
+      <li> algebra, </li>
+      <li> calculus, </li>
+      <li> metric spaces and topology, </li>
+      <li>probability and statistics. </li>
+    </ol>
+  </li>
+  <li> Studied courses on numerical analysis and differential equation.  </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently studying in Master in Data Science in University of Malaya.
