@@ -37,7 +37,7 @@ Malay: 5/10, just sufficient for daily use.
 
 ### Oh, you mean for programming language?
 Python, R, Matlab: 7/10. \
-Web: 3/10 (unless you count shiny in). Have basic knowledge on how html, css and javascript works together. \
+Web: 3/10 (unless you count R shiny in). Have basic knowledge on how html, css and javascript works together. \
 :point_up_2: That is if I am allowed to google search for the syntax. If not, -5 for all of them :joy:. 
 
 I also have superficial knowledge on SQL and LaTeX (if you consider them as a programming langugage in the first place).
