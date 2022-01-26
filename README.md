@@ -25,7 +25,7 @@ I prefer email over phone, so here you go yeohlitian@gmail.com.
   <li> Studied courses on numerical analysis and differential equation.  </li>
 </ul>
 
-### Currently studying in Master in Data Science in University of Malaya.
+### Currently studying in Master in Data Science in the University of Malaya.
 
 ## Work Experience
 None.
@@ -43,3 +43,5 @@ Web: 3/10 (unless you count shiny in). Have basic knowledge on how html, css and
 I should be able to pick up most programming language quickly as I strongly believe that coding is about the thought process and algorithm 
 instead of what line exactly we need to type out.
 
+## Online Course Taken
+I joined edX as a preparation to transform from the field of mathematics to data science. I went through most of the courses in the Data Science Professional Certificate Program by HarvardX (with no certificate because I am poor :neutral_face:), as well as some courses on computer science. I also took the Data Science Ethics course by MichiganX as a requirement to my study of Master in Data Science in the UM.
